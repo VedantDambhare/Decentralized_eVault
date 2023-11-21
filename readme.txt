@@ -1,1 +1,1 @@
-This is a decentralized eVault application which can store all file formats. hehe
+This is a decentralized eVault application which can store all file formats.
